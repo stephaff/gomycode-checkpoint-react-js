@@ -1,0 +1,21 @@
+
+.container{
+    height: 100vh;
+}
+form{
+    display: flex;
+    height: 70%;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 2rem;
+
+}
+h1{
+    text-align: center;
+}
+label{
+    text-align: right;
+}
+.form-check-input{
+    margin: 1rem;
+}
